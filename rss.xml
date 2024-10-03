@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Junypr Berries</title><link>https://example.com/</link><description>musings, manuscripts, and spilled ink</description><atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:n.tesla@example.com"&gt;Alex Ding&lt;/a&gt; </copyright><lastBuildDate>Tue, 01 Oct 2024 23:48:13 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Taxidermy</title><link>https://example.com/posts/taxidermy/</link><dc:creator>Alex Ding</dc:creator><description>&lt;p&gt;I am a bird sliced 
+needle-thin beak to tail
+ruby guts spilling
+blood darkening the 
+scarlet feathers at my throat
+heart torn out
+emerald wings pinned in place
+preserved perfection
+I'll stay here forever
+another specimen for your collection&lt;/p&gt;</description><guid>https://example.com/posts/taxidermy/</guid><pubDate>Tue, 01 Oct 2024 23:47:44 GMT</pubDate></item><item><title>An Ode to Here</title><link>https://example.com/posts/an-ode-to-here/</link><dc:creator>Alex Ding</dc:creator><description>&lt;p&gt;When I came here I though I'd
+fall in love again --- I mean
+read the blogs, hear the babies, hold the healed hearts
+and you'd think it'd be the same --- but
+I didn't think I'd fall in love with this sense of place
+Some home we have
+Killian in the afternoon on this statue
+of frozen granite speckled by
+the last rays of this summer's sun who we'll
+bid adieu in a few short hours
+unprepared for the drudge through icy darkness, and
+infinite corridors and labyrinthine tunnels and
+maybe it's silly to be in love with a space
+that belongs to so many before and after, but
+sometimes I walk
+and smile
+as if gold's been poured into my heart and
+perhaps there's no reason for this but
+that's love isn't it?
+we never know why we do.
+and I think I can close my eyes at night
+and listen to the harmony of the spheres
+out there in that velvety infinite
+and inside my chest
+everything feels right&lt;/p&gt;</description><guid>https://example.com/posts/an-ode-to-here/</guid><pubDate>Tue, 01 Oct 2024 23:46:14 GMT</pubDate></item><item><title>Welcome to Nikola</title><link>https://example.com/posts/welcome-to-nikola/</link><dc:creator>Roberto Alsina</dc:creator><description>&lt;figure&gt;
+&lt;a class="reference external image-reference" href="https://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1"&gt;
+&lt;img alt="Nikola Tesla Corner by nicwest, on Flickr" class="thumbnail" src="https://farm1.staticflickr.com/138/352972944_4f9d568680.jpg"&gt;
+&lt;/a&gt;
+&lt;/figure&gt;
+&lt;p&gt;If you can see this in a web browser, it means you managed to install Nikola,
+and build a site using it. Congratulations!&lt;/p&gt;
+&lt;p&gt;Next steps:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://example.com/pages/handbook/"&gt;Read the manual&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://getnikola.com"&gt;Visit the Nikola website to learn more&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://example.com/galleries/demo/"&gt;See a demo photo gallery&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://example.com/pages/listings-demo/"&gt;See a demo listing&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://example.com/pages/dr-nikolas-vendetta/"&gt;See a demo of a longer text&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Send feedback to &lt;a class="reference external" href="mailto:info@getnikola.com"&gt;info@getnikola.com&lt;/a&gt;!&lt;/p&gt;</description><category>blog</category><category>demo</category><category>nikola</category><category>python</category><guid>https://example.com/posts/welcome-to-nikola/</guid><pubDate>Sat, 31 Mar 2012 02:00:00 GMT</pubDate></item></channel></rss>
