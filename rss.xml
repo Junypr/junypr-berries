@@ -1,38 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Junypr Berries</title><link>https://example.com/</link><description>musings, manuscripts, and spilled ink</description><atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:n.tesla@example.com"&gt;Alex Ding&lt;/a&gt; </copyright><lastBuildDate>Tue, 01 Oct 2024 23:48:13 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Taxidermy</title><link>https://example.com/posts/taxidermy/</link><dc:creator>Alex Ding</dc:creator><description>&lt;p&gt;I am a bird sliced 
-needle-thin beak to tail
-ruby guts spilling
-blood darkening the 
-scarlet feathers at my throat
-heart torn out
-emerald wings pinned in place
-preserved perfection
-I'll stay here forever
-another specimen for your collection&lt;/p&gt;</description><guid>https://example.com/posts/taxidermy/</guid><pubDate>Tue, 01 Oct 2024 23:47:44 GMT</pubDate></item><item><title>An Ode to Here</title><link>https://example.com/posts/an-ode-to-here/</link><dc:creator>Alex Ding</dc:creator><description>&lt;p&gt;When I came here I though I'd
-fall in love again --- I mean
-read the blogs, hear the babies, hold the healed hearts
-and you'd think it'd be the same --- but
-I didn't think I'd fall in love with this sense of place
-Some home we have
-Killian in the afternoon on this statue
-of frozen granite speckled by
-the last rays of this summer's sun who we'll
-bid adieu in a few short hours
-unprepared for the drudge through icy darkness, and
-infinite corridors and labyrinthine tunnels and
-maybe it's silly to be in love with a space
-that belongs to so many before and after, but
-sometimes I walk
-and smile
-as if gold's been poured into my heart and
-perhaps there's no reason for this but
-that's love isn't it?
-we never know why we do.
-and I think I can close my eyes at night
-and listen to the harmony of the spheres
-out there in that velvety infinite
-and inside my chest
-everything feels right&lt;/p&gt;</description><guid>https://example.com/posts/an-ode-to-here/</guid><pubDate>Tue, 01 Oct 2024 23:46:14 GMT</pubDate></item><item><title>Welcome to Nikola</title><link>https://example.com/posts/welcome-to-nikola/</link><dc:creator>Roberto Alsina</dc:creator><description>&lt;figure&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Junypr Berries</title><link>https://example.com/</link><description>musings, manuscripts, and spilled ink</description><atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:alex.e.ding@gmail.com"&gt;Alex Ding&lt;/a&gt; </copyright><lastBuildDate>Thu, 03 Oct 2024 00:22:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Taxidermy</title><link>https://example.com/posts/taxidermy/</link><dc:creator>Alex Ding</dc:creator><description>&lt;p&gt;I am a bird sliced  &lt;br&gt;
+needle-thin beak to tail  &lt;br&gt;
+ruby guts spilling  &lt;br&gt;
+blood darkening the   &lt;br&gt;
+scarlet feathers at my throat  &lt;br&gt;
+heart torn out   &lt;br&gt;
+emerald wings pinned in place  &lt;br&gt;
+preserved perfection  &lt;br&gt;
+I'll stay here forever  &lt;br&gt;
+another specimen for your collection    &lt;/p&gt;</description><guid>https://example.com/posts/taxidermy/</guid><pubDate>Tue, 01 Oct 2024 23:47:44 GMT</pubDate></item><item><title>Welcome to Nikola</title><link>https://example.com/posts/welcome-to-nikola/</link><dc:creator>Roberto Alsina</dc:creator><description>&lt;figure&gt;
 &lt;a class="reference external image-reference" href="https://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1"&gt;
 &lt;img alt="Nikola Tesla Corner by nicwest, on Flickr" class="thumbnail" src="https://farm1.staticflickr.com/138/352972944_4f9d568680.jpg"&gt;
 &lt;/a&gt;

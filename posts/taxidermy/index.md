@@ -9,13 +9,13 @@
 .. type: text
 -->
 
-I am a bird sliced 
-needle-thin beak to tail
-ruby guts spilling
-blood darkening the 
-scarlet feathers at my throat
-heart torn out
-emerald wings pinned in place
-preserved perfection
-I'll stay here forever
-another specimen for your collection
+I am a bird sliced    
+needle-thin beak to tail    
+ruby guts spilling    
+blood darkening the     
+scarlet feathers at my throat    
+heart torn out     
+emerald wings pinned in place    
+preserved perfection    
+I'll stay here forever    
+another specimen for your collection    
