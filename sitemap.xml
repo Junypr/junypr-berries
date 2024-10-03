@@ -6,139 +6,139 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://example.com/</loc>
+  <loc>https://junypr.github.io/junypr-berries/</loc>
   <lastmod>2024-10-03T00:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/2012/</loc>
+  <loc>https://junypr.github.io/junypr-berries/2012/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/2024/</loc>
+  <loc>https://junypr.github.io/junypr-berries/2024/</loc>
   <lastmod>2024-10-01T23:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/archive.html</loc>
-  <lastmod>2024-10-03T00:32:00Z</lastmod>
+  <loc>https://junypr.github.io/junypr-berries/archive.html</loc>
+  <lastmod>2024-10-03T00:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/authors/</loc>
+  <loc>https://junypr.github.io/junypr-berries/authors/</loc>
   <lastmod>2024-10-01T23:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/authors/alex-ding/</loc>
+  <loc>https://junypr.github.io/junypr-berries/authors/alex-ding/</loc>
   <lastmod>2024-10-01T23:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/authors/roberto-alsina/</loc>
+  <loc>https://junypr.github.io/junypr-berries/authors/roberto-alsina/</loc>
   <lastmod>2024-10-01T23:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/</loc>
+  <loc>https://junypr.github.io/junypr-berries/categories/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/blog/</loc>
+  <loc>https://junypr.github.io/junypr-berries/categories/blog/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/cat_nikola/</loc>
+  <loc>https://junypr.github.io/junypr-berries/categories/cat_nikola/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/demo/</loc>
+  <loc>https://junypr.github.io/junypr-berries/categories/demo/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/nikola/</loc>
+  <loc>https://junypr.github.io/junypr-berries/categories/nikola/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/python/</loc>
+  <loc>https://junypr.github.io/junypr-berries/categories/python/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/</loc>
+  <loc>https://junypr.github.io/junypr-berries/galleries/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/demo/</loc>
+  <loc>https://junypr.github.io/junypr-berries/galleries/demo/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/</loc>
+  <loc>https://junypr.github.io/junypr-berries/listings/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/__pycache__/</loc>
+  <loc>https://junypr.github.io/junypr-berries/listings/__pycache__/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/hello.py.html</loc>
-  <lastmod>2024-10-03T00:32:00Z</lastmod>
+  <loc>https://junypr.github.io/junypr-berries/listings/hello.py.html</loc>
+  <lastmod>2024-10-03T00:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/about-nikola/</loc>
+  <loc>https://junypr.github.io/junypr-berries/pages/about-nikola/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/bootstrap-demo/</loc>
+  <loc>https://junypr.github.io/junypr-berries/pages/bootstrap-demo/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/charts/</loc>
+  <loc>https://junypr.github.io/junypr-berries/pages/charts/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/creating-a-theme/</loc>
+  <loc>https://junypr.github.io/junypr-berries/pages/creating-a-theme/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/dr-nikolas-vendetta/</loc>
+  <loc>https://junypr.github.io/junypr-berries/pages/dr-nikolas-vendetta/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/extending/</loc>
+  <loc>https://junypr.github.io/junypr-berries/pages/extending/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/handbook/</loc>
+  <loc>https://junypr.github.io/junypr-berries/pages/handbook/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/internals/</loc>
+  <loc>https://junypr.github.io/junypr-berries/pages/internals/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/listings-demo/</loc>
+  <loc>https://junypr.github.io/junypr-berries/pages/listings-demo/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/path-handlers/</loc>
+  <loc>https://junypr.github.io/junypr-berries/pages/path-handlers/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/quickref/</loc>
+  <loc>https://junypr.github.io/junypr-berries/pages/quickref/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/quickstart/</loc>
+  <loc>https://junypr.github.io/junypr-berries/pages/quickstart/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/social_buttons/</loc>
+  <loc>https://junypr.github.io/junypr-berries/pages/social_buttons/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/theming/</loc>
+  <loc>https://junypr.github.io/junypr-berries/pages/theming/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/posts/taxidermy/</loc>
+  <loc>https://junypr.github.io/junypr-berries/posts/taxidermy/</loc>
   <lastmod>2024-10-01T23:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/posts/welcome-to-nikola/</loc>
+  <loc>https://junypr.github.io/junypr-berries/posts/welcome-to-nikola/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
 </urlset>

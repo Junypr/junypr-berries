@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Junypr Berries (Posts by Alex Ding)</title><link>https://example.com/</link><description></description><atom:link href="https://example.com/authors/alex-ding.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:alex.e.ding@gmail.com"&gt;Alex Ding&lt;/a&gt; </copyright><lastBuildDate>Thu, 03 Oct 2024 00:22:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Taxidermy</title><link>https://example.com/posts/taxidermy/</link><dc:creator>Alex Ding</dc:creator><description>&lt;p&gt;I am a bird sliced  &lt;br&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Junypr Berries (Posts by Alex Ding)</title><link>https://junypr.github.io/junypr-berries/</link><description></description><atom:link href="https://junypr.github.io/junypr-berries/authors/alex-ding.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:alex.e.ding@gmail.com"&gt;Alex Ding&lt;/a&gt; </copyright><lastBuildDate>Thu, 03 Oct 2024 00:48:21 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Taxidermy</title><link>https://junypr.github.io/junypr-berries/posts/taxidermy/</link><dc:creator>Alex Ding</dc:creator><description>&lt;p&gt;I am a bird sliced  &lt;br&gt;
 needle-thin beak to tail  &lt;br&gt;
 ruby guts spilling  &lt;br&gt;
 blood darkening the   &lt;br&gt;
@@ -8,4 +8,4 @@ heart torn out   &lt;br&gt;
 emerald wings pinned in place  &lt;br&gt;
 preserved perfection  &lt;br&gt;
 I'll stay here forever  &lt;br&gt;
-another specimen for your collection    &lt;/p&gt;</description><guid>https://example.com/posts/taxidermy/</guid><pubDate>Tue, 01 Oct 2024 23:47:44 GMT</pubDate></item></channel></rss>
+another specimen for your collection    &lt;/p&gt;</description><guid>https://junypr.github.io/junypr-berries/posts/taxidermy/</guid><pubDate>Tue, 01 Oct 2024 23:47:44 GMT</pubDate></item></channel></rss>

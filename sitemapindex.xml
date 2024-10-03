@@ -6,47 +6,47 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://example.com/authors/alex-ding.xml</loc>
-  <lastmod>2024-10-03T00:22:00Z</lastmod>
+  <loc>https://junypr.github.io/junypr-berries/authors/alex-ding.xml</loc>
+  <lastmod>2024-10-03T00:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/authors/roberto-alsina.xml</loc>
-  <lastmod>2024-10-01T23:48:00Z</lastmod>
+  <loc>https://junypr.github.io/junypr-berries/authors/roberto-alsina.xml</loc>
+  <lastmod>2024-10-03T00:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/blog.xml</loc>
-  <lastmod>2024-10-01T23:45:00Z</lastmod>
+  <loc>https://junypr.github.io/junypr-berries/categories/blog.xml</loc>
+  <lastmod>2024-10-03T00:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/cat_nikola.xml</loc>
-  <lastmod>2024-10-01T23:45:00Z</lastmod>
+  <loc>https://junypr.github.io/junypr-berries/categories/cat_nikola.xml</loc>
+  <lastmod>2024-10-03T00:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/demo.xml</loc>
-  <lastmod>2024-10-01T23:45:00Z</lastmod>
+  <loc>https://junypr.github.io/junypr-berries/categories/demo.xml</loc>
+  <lastmod>2024-10-03T00:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/nikola.xml</loc>
-  <lastmod>2024-10-01T23:45:00Z</lastmod>
+  <loc>https://junypr.github.io/junypr-berries/categories/nikola.xml</loc>
+  <lastmod>2024-10-03T00:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/python.xml</loc>
-  <lastmod>2024-10-01T23:45:00Z</lastmod>
+  <loc>https://junypr.github.io/junypr-berries/categories/python.xml</loc>
+  <lastmod>2024-10-03T00:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/galleries/demo/rss.xml</loc>
-  <lastmod>2024-10-03T00:32:00Z</lastmod>
+  <loc>https://junypr.github.io/junypr-berries/galleries/demo/rss.xml</loc>
+  <lastmod>2024-10-03T00:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2024-10-03T00:32:00Z</lastmod>
+  <loc>https://junypr.github.io/junypr-berries/galleries/rss.xml</loc>
+  <lastmod>2024-10-03T00:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/rss.xml</loc>
-  <lastmod>2024-10-03T00:22:00Z</lastmod>
+  <loc>https://junypr.github.io/junypr-berries/rss.xml</loc>
+  <lastmod>2024-10-03T00:48:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2024-10-03T00:32:00Z</lastmod>
+  <loc>https://junypr.github.io/junypr-berries/sitemap.xml</loc>
+  <lastmod>2024-10-03T00:48:00Z</lastmod>
  </sitemap>
 </sitemapindex>
