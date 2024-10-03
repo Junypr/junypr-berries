@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/archive.html</loc>
-  <lastmod>2024-10-03T00:48:00Z</lastmod>
+  <lastmod>2024-10-03T00:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/authors/</loc>
@@ -75,7 +75,7 @@
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/listings/hello.py.html</loc>
-  <lastmod>2024-10-03T00:48:00Z</lastmod>
+  <lastmod>2024-10-03T00:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/pages/about-nikola/</loc>
@@ -132,6 +132,10 @@
  <url>
   <loc>https://junypr.github.io/junypr-berries/pages/theming/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://junypr.github.io/junypr-berries/posts/an-ode-to-here/</loc>
+  <lastmod>2024-10-03T00:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/posts/taxidermy/</loc>
