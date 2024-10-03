@@ -962,7 +962,7 @@ a {
 }
 
 a:visited {
-    color: #943526;
+    color: #6C778F;
 }
 
 a:hover,
@@ -1252,7 +1252,7 @@ a:active {
 
 /* Different color for index titles */
 article .title-block h1 a {
-    color: #787065;
+    color: #6C778F;
 }
 
 /*--------------------------------------------------------------
