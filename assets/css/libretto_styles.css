@@ -207,7 +207,7 @@ h6 {
 }
 
 h1 {
-    color: #a09a92;
+    color: #99bbba;
     font-family: "Playfair Display", Georgia, serif;
     font-size: 44px;
     font-size: 4.4rem;
@@ -217,7 +217,7 @@ h1 {
 
 h2 {
     border-bottom: 1px solid #787065;
-    color: #787065;
+    color: #99bbba;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 21px;
     font-size: 2.1rem;
@@ -957,7 +957,7 @@ body:not(.libretto-has-header-image) .title-block {
   6.1 Links
 --------------------------------------------------------------*/
 a {
-    color: #932817;
+    color: #6C778F;
     text-decoration: none;
 }
 
