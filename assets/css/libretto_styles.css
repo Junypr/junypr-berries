@@ -121,7 +121,7 @@ html {
 
 body {
     /* Fallback for when there is no custom background color defined. */
-    background: #fff;
+    background: #eceff3;
 }
 
 article,
@@ -348,7 +348,7 @@ address {
 }
 
 pre {
-    background: #d9d6d0;
+    background: #eceff3;
     font-family: "Droid Sans Mono", "Andale Mono", Consolas, "DejaVu Sans Mono", monospace;
     font-size: 16px;
     font-size: 1.6rem;
@@ -436,13 +436,13 @@ b code {
 /* Prettier select colours for insane people like me who select text constantly
 while reading */
 ::selection {
-    background: #eae9e6;
-    color: #787065;
+    background: #99bbba;
+    color: #eceff3;
 }
 
 ::-moz-selection {
-    background: #eae9e6;
-    color: #787065;
+    background: #99bbba;
+    color: #eceff3;
 }
 
 
@@ -450,7 +450,7 @@ while reading */
 3.0 Elements
 --------------------------------------------------------------*/
 hr {
-    background-color: #d9d6d0;
+    background-color: #eceff3;
     border: 0;
     height: 1px;
     margin-bottom: 1.5em;
@@ -515,12 +515,12 @@ table {
 }
 
 tr:nth-of-type(odd) {
-    background: rgba(255, 255, 255, 0.5);
+    background: #eceff3;
 }
 
 th,
 td {
-    border-bottom: 1px solid #d9d6d0;
+    border-bottom: 1px solid #eceff3;
     padding: 0.8em 1em;
 }
 
@@ -541,7 +541,7 @@ thead th {
 }
 
 tr:hover {
-    background: #a09a92;
+    background: #eceff3;
 }
 
 
@@ -617,7 +617,7 @@ textarea {
     -webkit-transition: all 0.15s ease-in-out;
     background: rgba(255, 255, 255, 0.75);
     border: 0;
-    border-bottom: 2px solid #a09a92;
+    border-bottom: 2px solid #99bbba;
     color: #a09a92;
     font-size: 14px;
     font-size: 1.4rem;
@@ -633,7 +633,7 @@ input[type="search"]:focus,
 input[type="url"]:focus,
 textarea:focus {
     background: #fff;
-    border: 1px solid #d9d6d0;
+    border: 1px solid #99bbba;
     box-shadow: 0 0 5px rgba(255, 255, 255, 1);
     color: #363431;
     outline: none;
@@ -649,15 +649,15 @@ textarea {
 
 /* Vendor prefixes for placeholder text */
 ::-webkit-input-placeholder {
-    color: #d9d6d0;
+    color: #eceff3;
 }
 
 ::-moz-placeholder {
-    color: #d9d6d0;
+    color: #eceff3;
 }
 
 :-ms-input-placeholder {
-    color: #d9d6d0;
+    color: #eceff3;
 }
 
 /* Submit buttons */
@@ -670,13 +670,13 @@ form p {
 
 input[type="submit"],
 button {
-    background: #a09a92;
-    border: 1px solid #eae9e6;
-    color: #eae9e6;
+    background: #eceff3;
+    border: 1px solid #99bbba;
+    color: #eceff3;
     font-size: 12px;
     font-size: 1.2rem;
     letter-spacing: 1px;
-    outline: 4px solid #a09a92;
+    outline: 4px solid #99bbba;
     padding: 0.7rem 1.4rem;
     position: relative;
     text-transform: uppercase;
@@ -684,9 +684,9 @@ button {
 
 input[type="submit"]:hover,
 button:hover {
-    background: #a09a92;
-    color: #faf9f5;
-    outline: 2px solid #a09a92;
+    background: #eceff3;
+    color: #eceff3;
+    outline: 2px solid #99bbba;
 }
 
 input[type="submit"]:active,
@@ -723,7 +723,7 @@ input::-moz-selection {
 5.0 Overall Site Structure
 --------------------------------------------------------------*/
 body {
-    background: #f2f1ed;
+    background: #eceff3;
 }
 
 .site-content {
@@ -746,7 +746,7 @@ body {
 --------------------------------------------------------------*/
 .nav-bar {
     background: #fAf9f5;
-    border-bottom: 1px solid #d9d6d0;
+    border-bottom: 1px solid #eceff3;
     position: relative;
     width: 100%;
 }
@@ -815,7 +815,7 @@ body:not(.libretto-has-header-image) .title-block {
 }
 
 .social a:before {
-    background: #d9d6d0;
+    background: #eceff3;
     border-radius: 2px;
     color: #faf9f5;
     content: "y";
@@ -1129,7 +1129,7 @@ a:active {
 
 .title-block:before {
     background: #faf9f5;
-    border: 1px solid #d9d6d0;
+    border: 1px solid #eceff3;
     border-radius: 50%;
     box-shadow: 0 0 0 4px #faf9f5;
     color: #a09a92;
@@ -1143,7 +1143,7 @@ a:active {
 }
 
 .title-block {
-    border-bottom: 1px solid #d9d6d0;
+    border-bottom: 1px solid #eceff3;
     margin-bottom: 4rem;
     padding-bottom: 2rem;
     text-align: center;
@@ -1162,7 +1162,7 @@ a:active {
 
 .title-block .entry-meta:before,
 .title-block .entry-meta:after {
-    color: #d9d6d0;
+    color: #eceff3;
     content: "~";
     display: inline-block;
     font-family: libretto-icons;
@@ -1252,7 +1252,7 @@ a:active {
 
 /* Different color for index titles */
 article .title-block h1 a {
-    color: #6C778F;
+    color: #99bbba;
 }
 
 /*--------------------------------------------------------------
@@ -1260,8 +1260,8 @@ article .title-block h1 a {
 --------------------------------------------------------------*/
 
 .footer-sidebar {
-    background: #faf9f5;
-    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+    background: #ffffff;
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.1);
     margin: 2rem 0 2rem 0;
     width: 100%;
 }
@@ -1273,7 +1273,7 @@ article .title-block h1 a {
 }
 
 .widget-title {
-    border-bottom: 1px solid #d9d6d0;
+    border-bottom: 1px solid #eceff3;
     font-size: 14px;
     font-size: 1.4rem;
     letter-spacing: 2px;
@@ -1430,7 +1430,7 @@ article .title-block h1 a {
     }
 
     .navigation-post .previous {
-        border-bottom: 1px solid #d9d6d0;
+        border-bottom: 1px solid #eceff3;
     }
 
     .navigation-post .previous,
@@ -1454,7 +1454,7 @@ article .title-block h1 a {
 
     .tag-list {
         text-align: center;
-        border-bottom: 1px solid #d9d6d0;
+        border-bottom: 1px solid #eceff3;
         padding-bottom: 10px;
         margin-bottom: 0px;
     }
@@ -1540,7 +1540,7 @@ article .title-block h1 a {
 
     /* In-page navigation can be arranged in floats and take up a bit more space */
     .navigation-post {
-        border-top: 1px solid #d9d6d0;
+        border-top: 1px solid #eceff3;
     }
 
     .navigation-post .previous,
@@ -1551,7 +1551,7 @@ article .title-block h1 a {
     }
 
     .navigation-post .next {
-        border-left: 1px solid #d9d6d0;
+        border-left: 1px solid #eceff3;
         min-height: 4.8rem;
     }
 
