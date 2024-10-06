@@ -208,16 +208,19 @@ h6 {
 
 h1 {
     color: #99bbba;
-    font-family: "Playfair Display", Georgia, serif;
-    font-size: 44px;
-    font-size: 4.4rem;
+    /*font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+    font-family: "Garamond", "Corben", "Fredericka the Great", "Noticia Text", Georgia, serif;
+    font-size: 50px;
+    font-size: 5.0rem;
     font-style: italic;
+    /*letter-spacing: 2px;*/
     margin: 1em 0 0.5em;
+    text-transform: lowercase;
 }
 
 h2 {
-    border-bottom: 1px solid #787065;
-    color: #99bbba;
+    border-bottom: 1px solid #99bbba;
+    color: #6C778F;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 21px;
     font-size: 2.1rem;
@@ -228,7 +231,7 @@ h2 {
 }
 
 h3 {
-    color: #a09a92;
+    color: #99bbba;
     font-size: 25px;
     font-size: 2.5rem;
     font-style: italic;
@@ -236,7 +239,7 @@ h3 {
 }
 
 h4 {
-    color: #787065;
+    color: #99bbba;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     font-size: 1.6rem;
@@ -246,7 +249,7 @@ h4 {
 }
 
 h5 {
-    color: #a09a92;
+    color: #99bbba;
     font-size: 21px;
     font-size: 2.1rem;
     font-style: italic;
@@ -254,7 +257,7 @@ h5 {
 }
 
 h6 {
-    color: #787065;
+    color: #99bbba;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     font-size: 1.4rem;
@@ -280,7 +283,7 @@ i {
 }
 
 blockquote {
-    color: #a09a92;
+    color: #99bbba;
     font-family: "Playfair Display", Georgia, serif;
     font-size: 28px;
     font-size: 2.8rem;
@@ -291,7 +294,7 @@ blockquote {
 }
 
 blockquote::before {
-    color: #ebe7e1;
+    color: #99bbba;
     content: "\201C";
     display: block;
     font-size: 208px;
@@ -305,7 +308,7 @@ blockquote::before {
 }
 
 blockquote cite {
-    color: #787065;
+    color: #99bbba;
     float: right;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
@@ -324,8 +327,8 @@ blockquote cite::before {
 blockquote.alignleft,
 blockquote.alignright {
     background: #fff;
-    border-bottom: 1px solid #ebe7e1;
-    border-top: 2px solid #a09a92;
+    border-bottom: 1px solid #99bbba;
+    border-top: 2px solid #99bbba;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.025);
     font-size: 27px;
     font-size: 2.7rem;
@@ -371,7 +374,7 @@ var {
 
 abbr,
 acronym {
-    border-bottom: 1px dotted #a09a92;
+    border-bottom: 1px dotted #99bbba;
     cursor: help;
 }
 
@@ -415,8 +418,8 @@ em b,
 strong i,
 i strong,
 .wp-caption strong {
-    background: rgba(234, 233, 230, 0.5);
-    color: #787065;
+    background: #99bbba;
+    color: #6C778F;
     font-size: 0.8em;
     font-style: normal;
     font-weight: bold;
@@ -534,7 +537,7 @@ thead:nth-of-type(odd) tr {
 
 thead th {
     border-width: 2px;
-    color: #a09a92;
+    color: #6C778F;
     font-style: normal;
     font-weight: bold;
     padding: 0.4em 1em;
@@ -618,7 +621,7 @@ textarea {
     background: rgba(255, 255, 255, 0.75);
     border: 0;
     border-bottom: 2px solid #99bbba;
-    color: #a09a92;
+    color: #99bbba;
     font-size: 14px;
     font-size: 1.4rem;
     line-height: 1.6;
@@ -697,7 +700,7 @@ button:active {
 
 /* Labels */
 label {
-    color: #a09a92;
+    color: #99bbba;
     font-size: 18px;
     font-size: 1.8rem;
     font-style: italic;
@@ -745,7 +748,7 @@ body {
   5.1 Header
 --------------------------------------------------------------*/
 .nav-bar {
-    background: #fAf9f5;
+    background: #eceff3;
     border-bottom: 1px solid #eceff3;
     position: relative;
     width: 100%;
@@ -758,12 +761,12 @@ body {
 }
 
 .site-branding h1 {
-    color: #a09a92;
-    font-family: "Playfair Display";
+    color: #99bbba;
+    font-family: "Garamond", "Playfair Display", Georgia, serif;
     font-size: 36px;
     font-size: 3.6rem;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 300;
     line-height: 1;
     margin: 0;
 }
@@ -791,14 +794,14 @@ body:not(.libretto-has-header-image) .title-block {
 ---------------------------------------------------------------*/
 
 .site-footer .site-info {
-    color: #a09a92;
+    color: #6C778F;
     font-size: 12px;
     font-size: 1.2rem;
     line-height: 1.6;
 }
 
 .site-footer a {
-    color: #787065;
+    color: #6C778F;
 }
 
 .site-footer .site-info p {
@@ -817,7 +820,7 @@ body:not(.libretto-has-header-image) .title-block {
 .social a:before {
     background: #eceff3;
     border-radius: 2px;
-    color: #faf9f5;
+    color: #eceff3;
     content: "y";
     display: inline-block;
     font-family: libretto-icons;
@@ -832,7 +835,7 @@ body:not(.libretto-has-header-image) .title-block {
 }
 
 .social a:hover:before {
-    background-color: #787065;
+    background-color: #6C778F;
 }
 
 /* Icons */
@@ -968,7 +971,7 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-    color: #712012;
+    color: #99bbba;
 }
 
 
@@ -1011,7 +1014,7 @@ a:active {
 
 .navigation-post .previous a,
 .navigation-post .next a {
-    color: #a09a92;
+    color: #99bbba;
     display: block;
     font-style: italic;
     position: relative;
@@ -1019,7 +1022,7 @@ a:active {
 
 .previous .meta-nav,
 .next .meta-nav {
-    color: #787065;
+    color: #6C778F;
     display: block;
     font-family: Montserrat;
     font-size: 12px;
@@ -1031,7 +1034,7 @@ a:active {
 
 .previous .meta-nav a,
 .next .meta-nav a {
-    color: #787065;
+    color: #6C778F;
     display: inline;
     font-style: normal;
 }
@@ -1052,17 +1055,17 @@ a:active {
 .previous .meta-nav a:before,
 .previous a .meta-nav:before {
     border-left: 0;
-    border-right-color: #a09a92;
+    border-right-color: #99bbba;
 }
 
 .next .meta-nav a:after,
 .next a .meta-nav:after {
-    border-left-color: #a09a92;
+    border-left-color: #99bbba;
     border-right: 0;
 }
 
 .tag-head {
-    color: #787065;
+    color: #6C778F;
     display: block;
     font-family: Montserrat;
     font-size: 16px;
@@ -1093,11 +1096,11 @@ a:active {
 
 .tag-list a {
     display: inline-block;
-    background: #faf9f5;
+    background: #eceff3;
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
     padding: 0.5rem;
     font-size: 14px;
-    color: #787065;
+    color: #6C778F;
     margin: 0.5rem 0.25rem;
 }
 
@@ -1128,11 +1131,11 @@ a:active {
 }
 
 .title-block:before {
-    background: #faf9f5;
+    background: #eceff3;
     border: 1px solid #eceff3;
     border-radius: 50%;
-    box-shadow: 0 0 0 4px #faf9f5;
-    color: #a09a92;
+    box-shadow: 0 0 0 4px #eceff3;
+    color: #99bbba;
     display: inline-block;
     font-family: libretto-icons;
     font-size: 21px;
@@ -1151,13 +1154,13 @@ a:active {
 }
 
 .entry-meta {
-    color: #a09a92;
+    color: #6C778F;
     font-style: italic;
     line-height: 1.4;
 }
 
 .entry-meta a {
-    color: #787065;
+    color: #6C778F;
 }
 
 .title-block .entry-meta:before,
@@ -1179,7 +1182,7 @@ a:active {
 
 /* Drop cap and first line */
 .format-standard .entry-content div:first-child > p:not(.no-emphasis):first-of-type:first-letter {
-    color: #b7b1a9;
+    color: #eceff3;
     display: inline-block;
     float: left;
     font-family: "Playfair Display";
@@ -1191,7 +1194,7 @@ a:active {
 }
 
 .format-standard .entry-content div:first-child > p:not(.no-emphasis):first-of-type:first-line {
-    color: #787065;
+    color: #6C778F;
     font-family: "Playfair Display SC";
     font-size: 1em;
     font-style: normal !important; /* Cheat to preserve visual sanity */
@@ -1210,14 +1213,17 @@ a:active {
 }
 
 .libretto-long-form {
-    background: #faf9f5;
-    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
+    background: #ffffff;
+    border: 1px #dee0e4;
+    border-style: solid;
+    border-radius: 10px
+    /*box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);*/
 }
 
 /* "Read more" link */
 .more,
 .more>a {
-    color: #a09a92;
+    color: #99bbba;
     display: inline-block;
     font-family: "Playfair Display";
     font-size: 21px;
@@ -1247,7 +1253,7 @@ a:active {
 }
 
 .more>a:hover {
-    color: #712012;
+    color: #99bbba;
 }
 
 /* Different color for index titles */
@@ -1260,7 +1266,7 @@ article .title-block h1 a {
 --------------------------------------------------------------*/
 
 .footer-sidebar {
-    background: #ffffff;
+    background: #eceff3;
     box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.1);
     margin: 2rem 0 2rem 0;
     width: 100%;
@@ -1283,7 +1289,7 @@ article .title-block h1 a {
 }
 
 .widget-text {
-    color: #a09a92;
+    color: #99bbba;
     font-size: 1.1em;
     font-style: italic;
     text-align: center;
@@ -1359,14 +1365,14 @@ article .title-block h1 a {
     }
 
     .site-navigation a {
-        color: #cacabc;
+        color: #6C778F;
     }
 
     .menu-toggle {
         background: #363431;
-        border-bottom: 2px solid #787065;
+        border-bottom: 2px solid #99bbba;
         box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
-        color: #eae9e6;
+        color: #eceff3;
         cursor: pointer;
         display: block;
         font-size: 21px;
@@ -1381,7 +1387,7 @@ article .title-block h1 a {
 
     /* Style menu items a bit differently */
     .site-navigation .menu li {
-        border-top: 1px solid #787065;
+        border-top: 1px solid #99bbba;
         display: block;
         text-align: left;
     }
@@ -1495,7 +1501,7 @@ article .title-block h1 a {
 
     .site-navigation li a {
         border-bottom: 2px solid transparent;
-        color: #787065;
+        color: #6C778F;
         padding: 1rem 1rem 0.8rem;
     }
 
