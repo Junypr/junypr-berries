@@ -2,8 +2,8 @@
 .. title: Taxidermy
 .. slug: taxidermy
 .. date: 2024-10-01 19:47:44 UTC-04:00
-.. tags: 
-.. category: 
+.. tags: hummingbird,when you feel completely out of control like everyone sees straight through you
+.. category: poetry
 .. link: 
 .. description: 
 .. type: text

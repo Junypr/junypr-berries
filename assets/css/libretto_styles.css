@@ -1181,26 +1181,26 @@ a:active {
 }
 
 /* Drop cap and first line */
-.format-standard .entry-content div:first-child > p:not(.no-emphasis):first-of-type:first-letter {
-    color: #eceff3;
-    display: inline-block;
-    float: left;
-    font-family: "Playfair Display";
-    font-size: 70px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 40px;
-    margin: 6px 10px 0 -5px;
-}
+/*.format-standard .entry-content div:first-child > p:not(.no-emphasis):first-of-type:first-letter {*/
+/*    color: #eceff3;*/
+/*    display: inline-block;*/
+/*    float: left;*/
+/*    font-family: "Playfair Display";*/
+/*    font-size: 70px;*/
+/*    font-style: normal;*/
+/*    font-weight: 700;*/
+/*    line-height: 40px;*/
+/*    margin: 6px 10px 0 -5px;*/
+/*}*/
 
-.format-standard .entry-content div:first-child > p:not(.no-emphasis):first-of-type:first-line {
-    color: #6C778F;
-    font-family: "Playfair Display SC";
-    font-size: 1em;
-    font-style: normal !important; /* Cheat to preserve visual sanity */
-    font-weight: bold;
-    letter-spacing: 1px;
-}
+/*.format-standard .entry-content div:first-child > p:not(.no-emphasis):first-of-type:first-line {*/
+/*    color: #6C778F;*/
+/*    font-family: "Playfair Display SC";*/
+/*    font-size: 1em;*/
+/*    font-style: normal !important; !* Cheat to preserve visual sanity *!*/
+/*    font-weight: bold;*/
+/*    letter-spacing: 1px;*/
+/*}*/
 
 .format-standard .entry-content div:first-child > p:not(.no-emphasis):first-of-type::after {
     clear: both;
@@ -1523,11 +1523,11 @@ article .title-block h1 a {
     }
 
     /* Use a bigger drop cap */
-    .format-standard .entry-content div:first-child > p:not(.no-emphasis):first-of-type:first-letter {
-        font-size: 121px;
-        line-height: 70px;
-        margin: 6px 10px 0 -5px;
-    }
+    /*.format-standard .entry-content div:first-child > p:not(.no-emphasis):first-of-type:first-letter {*/
+    /*    font-size: 121px;*/
+    /*    line-height: 70px;*/
+    /*    margin: 6px 10px 0 -5px;*/
+    /*}*/
 
     /* Footer can stretch out a bit */
     .site-footer {

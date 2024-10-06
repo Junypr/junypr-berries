@@ -2,8 +2,8 @@
 .. title: It's fall
 .. slug: its-fall
 .. date: 2024-10-05 15:44:07 UTC-04:00
-.. tags: 
-.. category: 
+.. tags: autumn,topographical poetry,just waiting for the seasonal affective disorder to set in
+.. category: poetry
 .. link: 
 .. description: 
 .. type: text

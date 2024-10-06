@@ -2,8 +2,8 @@
 .. title: What makes a home
 .. slug: what-makes-a-home
 .. date: 2024-10-05 15:54:21 UTC-04:00
-.. tags: 
-.. category: 
+.. tags: home,topographical poetry,letters I never sent and never will
+.. category: poetry
 .. link: 
 .. description: 
 .. type: text

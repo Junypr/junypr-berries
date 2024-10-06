@@ -2,8 +2,8 @@
 .. title: The four people you meet by the pond
 .. slug: the-four-people-you-meet-by-the-pond
 .. date: 2024-10-05 15:49:49 UTC-04:00
-.. tags: 
-.. category: 
+.. tags: strangers,home,musings on an ordinary day
+.. category: freeform
 .. link: 
 .. description: 
 .. type: text

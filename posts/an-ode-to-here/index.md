@@ -2,14 +2,14 @@
 .. title: An Ode to Here
 .. slug: an-ode-to-here
 .. date: 2024-10-02 20:50:48 UTC-04:00
-.. tags: 
-.. category: 
+.. tags: mit,topographical poetry,that moment right before the weather gets so cold your fingers fall off
+.. category: poetry
 .. link: 
 .. description: 
 .. type: text
 -->
 
-When I came here I though I'd   
+When I came here I thought I'd   
 fall in love again --- I mean   
 read the blogs, hear the babies, hold the healed hearts   
 and you'd think it'd be the same --- but  

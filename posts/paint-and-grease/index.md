@@ -2,8 +2,8 @@
 .. title: Paint and Grease
 .. slug: paint-and-grease
 .. date: 2024-10-05 15:52:21 UTC-04:00
-.. tags: 
-.. category: 
+.. tags: love,machines,art,not autobiographical,things I write because I can
+.. category: poetry
 .. link: 
 .. description: 
 .. type: text
