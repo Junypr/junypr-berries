@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://junypr.github.io/junypr-berries/</loc>
-  <lastmod>2024-10-03T00:13:00Z</lastmod>
+  <lastmod>2024-10-13T23:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/2012/</loc>
@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/archive.html</loc>
-  <lastmod>2024-10-06T02:09:00Z</lastmod>
+  <lastmod>2024-10-22T23:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/authors/</loc>
@@ -252,6 +252,10 @@
  <url>
   <loc>https://junypr.github.io/junypr-berries/posts/the-four-people-you-meet-by-the-pond/</loc>
   <lastmod>2024-10-05T19:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://junypr.github.io/junypr-berries/posts/the-thing-about-sunsets/</loc>
+  <lastmod>2024-10-22T23:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/posts/welcome-to-nikola/</loc>
