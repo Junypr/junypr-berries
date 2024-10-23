@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/a-collection-of-experiences-from-my-life-and-friends.xml</loc>
-  <lastmod>2024-10-23T00:11:00Z</lastmod>
+  <lastmod>2024-10-23T00:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/art.xml</loc>
@@ -43,7 +43,7 @@
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/cat_poetry.xml</loc>
-  <lastmod>2024-10-23T00:11:00Z</lastmod>
+  <lastmod>2024-10-23T00:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/cat_prose.xml</loc>
@@ -51,7 +51,7 @@
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/cat_short-story.xml</loc>
-  <lastmod>2024-10-23T00:11:00Z</lastmod>
+  <lastmod>2024-10-23T00:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/demo.xml</loc>
@@ -75,7 +75,7 @@
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/leaving.xml</loc>
-  <lastmod>2024-10-23T00:11:00Z</lastmod>
+  <lastmod>2024-10-23T00:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/letters-i-never-sent-and-never-will.xml</loc>
@@ -83,7 +83,7 @@
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/love.xml</loc>
-  <lastmod>2024-10-23T00:11:00Z</lastmod>
+  <lastmod>2024-10-23T00:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/machines.xml</loc>
@@ -107,11 +107,11 @@
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/poetry.xml</loc>
-  <lastmod>2024-10-23T00:11:00Z</lastmod>
+  <lastmod>2024-10-23T00:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/prose.xml</loc>
-  <lastmod>2024-10-23T00:11:00Z</lastmod>
+  <lastmod>2024-10-23T00:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/python.xml</loc>
@@ -123,7 +123,7 @@
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/short-story.xml</loc>
-  <lastmod>2024-10-23T00:11:00Z</lastmod>
+  <lastmod>2024-10-23T00:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/strangers.xml</loc>
@@ -136,6 +136,10 @@
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/that-moment-right-before-the-weather-gets-so-cold-your-fingers-fall-off.xml</loc>
   <lastmod>2024-10-06T02:09:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://junypr.github.io/junypr-berries/categories/the-beauty-of-seeing-people-i-havent-see-in-a-long-time.xml</loc>
+  <lastmod>2024-10-23T00:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/things-i-write-because-i-can.xml</loc>
@@ -167,10 +171,10 @@
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/rss.xml</loc>
-  <lastmod>2024-10-23T00:11:00Z</lastmod>
+  <lastmod>2024-10-23T00:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/sitemap.xml</loc>
-  <lastmod>2024-10-23T00:11:00Z</lastmod>
+  <lastmod>2024-10-23T00:39:00Z</lastmod>
  </sitemap>
 </sitemapindex>

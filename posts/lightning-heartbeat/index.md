@@ -34,6 +34,8 @@ because you were just the boy
 who ran from the storm to spare his plastic armor from rust, and you   
 sacrificed me to the goddess of blind hope   
 
+<!-- TEASER_END -->
+
 three. endless summer nights pining    
 writing before the sun caught up to my darkest secrets   
 dancing in the soaking rain 'til I shook in the shock    
