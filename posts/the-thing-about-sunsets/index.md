@@ -2,8 +2,8 @@
 .. title: The Thing About Sunsets
 .. slug: the-thing-about-sunsets
 .. date: 2024-10-22 19:56:30 UTC-04:00
-.. tags: 
-.. category: 
+.. tags: sunsets, prose, random thoughts
+.. category: prose
 .. link: 
 .. description: 
 .. type: text
