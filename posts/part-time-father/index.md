@@ -19,6 +19,8 @@ We visited your Shanghai apartment that summer, and I remember the drip of choco
 
 *I draw sketches of you from faded yellow photos, to give when you return. Mother says I’m quite good. A natural-born artist.* 
 
+<!-- TEASER_END -->
+
 When you come back you bring a suitcase full of gifts. Snacks. I like the thin not-mint hawthorne candies and the rolls of fruit leather in little plastic packages with words I cannot read. You give me a pencil sharpener. It could sharpen a finger. I don’t know why it says “a little girl and boy” on it.
 
 You take me to the department store, and I fidget through hours of escalator rides and check-out lines. You buy a cardboard “A” for me. For the race I am and the grades I am supposed to get — except you forget that I am in kindergarten and do not have those kinds of grades yet. 
