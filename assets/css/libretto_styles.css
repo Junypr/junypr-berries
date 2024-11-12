@@ -1360,7 +1360,7 @@ article .title-block h1 a {
 
     /* Use a condensed mobile menu */
     .site-navigation {
-        background: #26231e;
+        background: #6C778F;
         width: 100%;
     }
 
@@ -1369,7 +1369,7 @@ article .title-block h1 a {
     }
 
     .menu-toggle {
-        background: #363431;
+        background: #6C778F;
         border-bottom: 2px solid #99bbba;
         box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
         color: #eceff3;
@@ -1506,8 +1506,8 @@ article .title-block h1 a {
     }
 
     .site-navigation a:hover {
-        border-bottom: 2px solid #999;
-        color: #363431;
+        border-bottom: 2px solid #99bbba;
+        color: #6C778F;
     }
 
     .title-block {
