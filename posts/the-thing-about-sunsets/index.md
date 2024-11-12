@@ -9,8 +9,7 @@
 .. type: text
 -->
 
-Each sunset is a fragile fraction of a moment suspended in time like a mote of dust in a sunbeam. 
-Each day brings a new palette, daubs of inimitable hand-mixed paint swirls. 
+Each sunset is a fragile fraction of suspended time, a fresh palette filled with daubs of inimitable paint swirls. 
 So I grab my camera and fly down the stairs, 
 I don't stop to say hello because something inside my chest tells me that this is what matters, 
 that I need to be here, 

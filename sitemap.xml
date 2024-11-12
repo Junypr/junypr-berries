@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/archive.html</loc>
-  <lastmod>2024-11-12T01:17:00Z</lastmod>
+  <lastmod>2024-11-12T01:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/authors/</loc>
@@ -35,7 +35,7 @@
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/categories/</loc>
-  <lastmod>2024-11-12T01:17:00Z</lastmod>
+  <lastmod>2024-11-12T01:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/categories/a-collection-of-experiences-from-my-life-and-friends/</loc>
@@ -86,12 +86,20 @@
   <lastmod>2024-10-06T02:09:00Z</lastmod>
  </url>
  <url>
+  <loc>https://junypr.github.io/junypr-berries/categories/contemplating-life/</loc>
+  <lastmod>2024-11-12T01:26:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://junypr.github.io/junypr-berries/categories/demo/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/categories/election/</loc>
   <lastmod>2024-11-12T01:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://junypr.github.io/junypr-berries/categories/fall/</loc>
+  <lastmod>2024-11-12T01:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/categories/fantasy/</loc>
@@ -128,6 +136,10 @@
  <url>
   <loc>https://junypr.github.io/junypr-berries/categories/mit/</loc>
   <lastmod>2024-10-06T02:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://junypr.github.io/junypr-berries/categories/mortality/</loc>
+  <lastmod>2024-11-12T01:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/categories/musings-on-an-ordinary-day/</loc>
@@ -215,7 +227,7 @@
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/index-1.html</loc>
-  <lastmod>2024-11-12T01:17:00Z</lastmod>
+  <lastmod>2024-11-12T01:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/listings/</loc>
@@ -227,7 +239,7 @@
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/listings/hello.py.html</loc>
-  <lastmod>2024-11-12T01:17:00Z</lastmod>
+  <lastmod>2024-11-12T01:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/pages/about-nikola/</loc>
@@ -290,6 +302,10 @@
   <lastmod>2024-10-03T00:52:00Z</lastmod>
  </url>
  <url>
+  <loc>https://junypr.github.io/junypr-berries/posts/childs-play/</loc>
+  <lastmod>2024-11-12T01:26:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://junypr.github.io/junypr-berries/posts/cloudstrider/</loc>
   <lastmod>2024-10-06T02:09:00Z</lastmod>
  </url>
@@ -340,10 +356,6 @@
  <url>
   <loc>https://junypr.github.io/junypr-berries/posts/the-thing-about-sunsets/</loc>
   <lastmod>2024-10-22T23:59:00Z</lastmod>
- </url>
- <url>
-  <loc>https://junypr.github.io/junypr-berries/posts/welcome-to-nikola/</loc>
-  <lastmod>2024-10-01T23:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/posts/what-makes-a-home/</loc>
