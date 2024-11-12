@@ -1360,7 +1360,7 @@ article .title-block h1 a {
 
     /* Use a condensed mobile menu */
     .site-navigation {
-        background: #6C778F;
+        background: #eceff3;
         width: 100%;
     }
 
@@ -1369,10 +1369,10 @@ article .title-block h1 a {
     }
 
     .menu-toggle {
-        background: #6C778F;
-        border-bottom: 2px solid #99bbba;
-        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
-        color: #eceff3;
+        background: #eceff3;
+        /*border-bottom: 2px solid #99bbba;*/
+        /*box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);*/
+        color: #6C778F;
         cursor: pointer;
         display: block;
         font-size: 21px;
@@ -1387,7 +1387,7 @@ article .title-block h1 a {
 
     /* Style menu items a bit differently */
     .site-navigation .menu li {
-        border-top: 1px solid #99bbba;
+        /*border-top: 1px solid #dee0e4;*/
         display: block;
         text-align: left;
     }
@@ -1506,7 +1506,7 @@ article .title-block h1 a {
     }
 
     .site-navigation a:hover {
-        border-bottom: 2px solid #99bbba;
+        border-bottom: 2px solid #dee0e4;
         color: #6C778F;
     }
 

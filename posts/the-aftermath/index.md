@@ -16,8 +16,7 @@ condensed into this microcosm of democracy
 because when does the permission we gave    
 with millions of penned-in circles   
 become a mandate for something we never spoke?  
-words drawn from the air that never passed our lips.  
-<!-- TEASER_END -->
+words drawn from the air that never passed our lips. <!-- TEASER_END -->
 I am scared of what will be read in the silence of so many   
 what gross shouts will become gunshots.   
 some bear it better   
