@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/archive.html</loc>
-  <lastmod>2024-11-19T01:02:00Z</lastmod>
+  <lastmod>2024-12-06T01:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/authors/</loc>
@@ -35,7 +35,7 @@
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/categories/</loc>
-  <lastmod>2024-11-19T01:02:00Z</lastmod>
+  <lastmod>2024-12-06T01:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/categories/a-collection-of-experiences-from-my-life-and-friends/</loc>
@@ -60,6 +60,10 @@
  <url>
   <loc>https://junypr.github.io/junypr-berries/categories/blog/</loc>
   <lastmod>2024-10-01T23:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://junypr.github.io/junypr-berries/categories/blurry/</loc>
+  <lastmod>2024-12-06T01:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/categories/broken/</loc>
@@ -132,6 +136,10 @@
  <url>
   <loc>https://junypr.github.io/junypr-berries/categories/machines/</loc>
   <lastmod>2024-10-06T02:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://junypr.github.io/junypr-berries/categories/memory/</loc>
+  <lastmod>2024-12-06T01:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/categories/missing/</loc>
@@ -235,7 +243,7 @@
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/index-1.html</loc>
-  <lastmod>2024-11-19T01:02:00Z</lastmod>
+  <lastmod>2024-12-06T01:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/listings/</loc>
@@ -308,6 +316,10 @@
  <url>
   <loc>https://junypr.github.io/junypr-berries/posts/an-ode-to-here/</loc>
   <lastmod>2024-10-03T00:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://junypr.github.io/junypr-berries/posts/bokeh/</loc>
+  <lastmod>2024-12-06T01:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://junypr.github.io/junypr-berries/posts/boxes/</loc>
