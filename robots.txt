@@ -1,0 +1,4 @@
+Sitemap: https://junypr.github.io/junypr-berries/sitemapindex.xml
+
+User-Agent: *
+Host: junypr.github.io
