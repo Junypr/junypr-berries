@@ -24,7 +24,7 @@ the only thing that lives here are the ducks
 frantically paddling beneath the surface   
 I think anything bigger gets shot   
 What am I looking at?   
-Oh, just the hawk with the pigeon in it's claws   
+Oh, just the hawk with the pigeon in its claws   
 The one you just startled   
 Guess you didn't notice  
 
