@@ -170,14 +170,21 @@
   },
   "active": "0d4132eb7c4c28e5",
   "lastOpenFiles": [
-    "output/posts/suburbia-usa/index.html",
-    "output/2025/index.html",
-    "output/2025",
-    "cache/posts/suburbia-usa.html.dep",
-    "cache/posts/suburbia-usa.html",
-    "cache/posts",
+    "cache/jinja/__jinja2_5ecedad1a58d9c7f56e3b00025b5a9a652c73207.cache",
+    "cache/jinja/__jinja2_764dc9d744071307f84bc19b000b2ae85fbac1ad.cache",
+    "cache/jinja/__jinja2_387b56a9f3dc96633dfc14ec72f38687c954efbb.cache",
+    "cache/jinja/__jinja2_cb87e54461c62bdddf2e2ac6920f379f3857177e.cache",
+    "cache/jinja/__jinja2_4379171aaf0a8e043b931eee9c8c998f5dede962.cache",
+    "cache/jinja/__jinja2_23aed50b9cb21adbaf32aa7c4626a4488247419f.cache",
+    "cache/jinja/__jinja2_79cb07b3537a32ce953a4979ced3d08085113fe0.cache",
+    "cache/jinja/__jinja2_f18fc6d2c57abc92987867ae6e90246e0ee0e7a2.cache",
+    "cache/jinja/__jinja2_d468a1b730dc3ade28dd048ad30808fafdb21f5a.cache",
+    "cache/jinja/__jinja2_c5fdafe5799bc9818a288359de4cfdc1b53a331a.cache",
+    "cache/jinja/__jinja2_0f4f67e60edf58e96f7625cee26d00284025278b.cache",
+    "output/assets/fonts/libretto-icons.svg",
+    "themes/libretto/assets/fonts/libretto-icons.svg",
+    "themes/libretto/README.md",
     "output/posts/suburbia-usa/index.md",
-    "output/posts/suburbia-usa",
     "posts/suburbia-usa.md"
   ]
 }
