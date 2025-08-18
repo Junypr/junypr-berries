@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/like-father.md",
+                "file": "posts/star-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "like-father"
+              "title": "star-"
             }
           }
         ]
@@ -170,6 +170,11 @@
   },
   "active": "0d4132eb7c4c28e5",
   "lastOpenFiles": [
+    "output/posts/star-/index.md",
+    "posts/star-.md",
+    "output/posts/star-/index.html",
+    "output/posts/star-",
+    "posts/like-father.md",
     "output/categories/um-idk-me-but-not-me-d.xml",
     "output/posts/like-father/index.md",
     "output/posts/like-father/index.html",
@@ -180,7 +185,6 @@
     "cache/posts/like-father.html",
     "posts/lightning-heartbeat.md",
     "posts/new-places-old-faces.md",
-    "posts/like-father.md",
     "posts/part-time-father.md",
     "posts/suburbia-usa.md",
     "posts/superposition.md",
@@ -200,12 +204,7 @@
     "output/posts/paint-and-grease/index.md",
     "output/posts/new-places-old-faces/index.md",
     "output/posts/lightning-heartbeat/index.md",
-    "output/posts/dissonance/index.md",
-    "posts/cloudstrider.md",
     "output/posts/jupiter/index.html",
-    "output/index-2.html",
-    "output/posts/jupiter",
-    "cache/posts/jupiter.html.dep",
     "output/assets/fonts/libretto-icons.svg",
     "themes/libretto/assets/fonts/libretto-icons.svg"
   ]
