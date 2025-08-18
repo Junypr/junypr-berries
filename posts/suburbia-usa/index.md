@@ -1,11 +1,13 @@
+<!--
 .. title: Suburbia, USA
 .. slug: suburbia-usa
 .. date: 2025-07-03 19:51:41 UTC-04:00
-.. tags: 
-.. category: 
+.. tags: poetry, topographical poetry
+.. category: poetry
 .. link: 
 .. description: 
 .. type: text
+-->
 
 Hello again, and again  
 the humid heat sticks to my skin   
