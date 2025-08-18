@@ -14,10 +14,6 @@
   <lastmod>2025-07-04T00:22:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://junypr.github.io/junypr-berries/categories/astronomy.xml</loc>
-  <lastmod>2025-07-04T00:22:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/autumn.xml</loc>
   <lastmod>2025-07-04T00:22:00Z</lastmod>
  </sitemap>
@@ -39,7 +35,7 @@
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/cat_poetry.xml</loc>
-  <lastmod>2025-08-18T18:41:00Z</lastmod>
+  <lastmod>2025-08-18T19:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/cat_prose.xml</loc>
@@ -87,7 +83,7 @@
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/love.xml</loc>
-  <lastmod>2025-08-18T18:36:00Z</lastmod>
+  <lastmod>2025-08-18T19:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/machines.xml</loc>
@@ -123,7 +119,7 @@
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/poetry.xml</loc>
-  <lastmod>2025-08-18T18:41:00Z</lastmod>
+  <lastmod>2025-08-18T19:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/politics.xml</loc>
@@ -166,10 +162,6 @@
   <lastmod>2025-07-04T00:22:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://junypr.github.io/junypr-berries/categories/things-i-write-because-i-need-to.xml</loc>
-  <lastmod>2025-07-04T00:22:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://junypr.github.io/junypr-berries/categories/time-travel.xml</loc>
   <lastmod>2025-07-04T00:22:00Z</lastmod>
  </sitemap>
@@ -191,10 +183,10 @@
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/rss.xml</loc>
-  <lastmod>2025-08-18T18:41:00Z</lastmod>
+  <lastmod>2025-08-18T19:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://junypr.github.io/junypr-berries/sitemap.xml</loc>
-  <lastmod>2025-08-18T18:41:00Z</lastmod>
+  <lastmod>2025-08-18T19:07:00Z</lastmod>
  </sitemap>
 </sitemapindex>
