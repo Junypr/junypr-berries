@@ -10,7 +10,7 @@
 -->
 
 so simple, in youth   
-my life poured into jars  
+my life poured into jars   
 I would be a physicist,  
 then a journalist,  
 then an engineer,  
