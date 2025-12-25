@@ -17,6 +17,8 @@ It’s a Monday, and you’re grumpy. You’re in your cubicle with your third c
 
 “Yes, you. With the blue button-down. Obviously.” 
 
+<!-- TEASER_END -->
+
 You think someone might’ve hacked your Ocula. It happens occasionally, but usually only to people who leave their sets unattended, and you haven’t taken yours off in months. 
 
 You put your head in your hands and curse under your breath. You’re probably just hallucinating; you barely slept last night. 
@@ -47,7 +49,7 @@ You freeze. “Excuse me?”
 
 The voice goes silent. When it finally speaks, it’s quiet. “I think this is a conversation better saved for private.”
 
-#
+    #
 
 It’s impossible to concentrate, so you take your leave. At the entrance to the subway station is a hologram of a bulky man in a white tank top. He winks at you and flexes his bicep. Text ripples into view. “Melt 5 lbs of fat in 2 weeks with Epistanol.” You realize you forgot your weight loss pill yesterday. You reach into your bag and pop two into your mouth, dry swallowing as the train arrives.
 

@@ -17,13 +17,10 @@ I've freed myself from the shackles of "and,"
 "mine" and "yours" no longer;  
 I exist in singularity,  
 the period on the last page,  
-unpaired, but not lonely,  
-satisfied, with the story,  
-eager, for the space beyond the back cover.  
-It's what I needed ---  
+unpaired, but not lonely.   
+It's what I needed —  
 the starless sky of twilight  
 to fly as I will  
 and space to fall.  
-This I find only alone;  
 I don't  
 miss you.  
