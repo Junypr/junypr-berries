@@ -9,12 +9,10 @@
 .. type: text
 -->
 
-leaves drift past the concrete facade    
-as if mother oak has shrugged off the season's gaudy attire  
+leaves drift past the concrete facade  
 they fly  
-then disappear beneath rubber tires   
-pulverized  
-dust and exhaust fumes  
+then disappear beneath rubber tires    
+dust and exhaust   
 I rake the survivors off the ground with my fingertips  
 bone shards of their skeletons in my hair  
 I could build a pile big enough to bury a body  

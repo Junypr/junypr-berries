@@ -12,17 +12,15 @@
 The first Wednesday of November shouldn't be this hot  
 but the air boils with the rage of half a country wronged   
 condensed into this microcosm of democracy   
---- if we can call it that anymore ---   
+— if we can call it that anymore —   
 because when does the permission we gave    
 with millions of penned-in circles   
 become a mandate for something we never spoke?  
-words drawn from the air that never passed our lips. <!-- TEASER_END -->
+words drawn from the air that never passed our lips. <!-- TEASER_END -->  
 I am scared of what will be read in the silence of so many   
 what gross shouts will become gunshots.   
 some bear it better   
 others let the darkness lurk behind hollow eye sockets  
-my friend walks like he carries the world in his slim messenger bag   
-stares out the window like the breeze whispers an answer   
 we're scarred from the battle of blood red and bruise blue  
 drawing defeat across the map of our country.   
 the only thing that seems to unite us anymore is proximity.  
@@ -44,7 +42,7 @@ of a broken system,
 buried six feet under?  
 we explain it away as if we already knew what would happen   
 but didn't we promise?   
---- never again ---   
+— never again —   
 like eight years ago   
 when I went to sleep hoping that it was a mirage   
 only to see red when I awoke  
