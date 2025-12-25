@@ -13,7 +13,7 @@ we're prettier blurred
 the haze hides our imperfections  
 til we are bright as stars  
 or green lights at the shore  
-perhaps that is why you prefer film
+perhaps that is why you prefer film  
 perhaps that is why I prefer your memory  
 to flesh and blood before me  
 in my dreams your touch is featherlight  
