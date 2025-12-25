@@ -7,49 +7,7 @@
 .. link: 
 .. description: 
 .. type: text
--->
-
-TEST TO MAKE SURE THAT EVERYTHING IS WORKING
-
-                  ▒▒▒▒▒▒▒▒▒▒▒▒                                            
-                ▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒▒                                          
-              ▓▓▒▒▒▒░░░░░░░░░░▓▓▓▓                                        
-            ░░▒▒▒▒░░▓▓░░░░░░░░░░▓▓                                        
-            ░░▒▒▒▒░░▒▒░░░░░░  ░░▓▓▒▒                                      
-        ░░▓▓░░▒▒▒▒▒▒░░░░░░░░░░░░▒▒▓▓                                      
-  ░░░░░░░░░░░░▒▒▒▒▒▒▒▒░░░░▒▒▒▒░░░░▓▓                                      
-                    ▒▒▓▓▓▓▒▒▒▒░░▒▒▓▓                                      
-                        ▓▓▒▒░░░░▒▒▓▓                                      
-                        ▓▓▒▒░░░░▒▒                                        
-                      ▓▓▒▒░░  ░░▒▒                                        
-                  ▓▓▓▓▒▒░░░░░░▓▓                                          
-              ▓▓▒▒▒▒▒▒▒▒▒▒░░▒▒                                            
-            ▓▓▓▓  ▓▓▓▓▓▓▓▓▓▓                                              
-          ▓▓██▓▓▓▓        ▓▓▒▒▒▒▒▒▒▒                                      
-        ██▓▓▒▒▓▓▓▓▓▓▓▓██▓▓██░░░░░░▒▒▒▒▒▒▒▒                                
-      ▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓████░░░░░░░░░░░░░░▓▓▓▓▓▓                            
-      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░░  ▓▓▓▓                        
-    ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒░░▓▓▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░  ▓▓▓▓                    
-    ██▒▒▓▓▓▓▓▓▓▓██▒▒▒▒▒▒▒▒▒▒░░░░████▓▓▓▓▒▒▒▒▒▒▒▒░░░░  ▓▓▓▓                
-    ██▒▒▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░████▓▓▓▓▒▒▒▒▒▒░░░░    ▓▓              
-    ██▓▓▓▓▓▓██▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░██████████▓▓▓▓░░░░  ▓▓▓▓          
-    ██▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░████████████▒▒▓▓░░░░▓▓        
-    ██▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░  ████████░░░░▓▓▓▓    ▓▓    
-    ████▓▓██▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░    ██░░██████▓▓██    ██  
-      ██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░  ▓▓████████▓▓▓▓▓▓    
-      ░░████▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░▒▒▒▒▒▒░░            ░░  ░░░░░░
-          ▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░██████░░░░░░░░░░░░  
-            ▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░████▓▓▓▓          
-              ▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒                  
-                  ▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒                              
-                            ▓▓▓▓▓▓▓▓▓▓                                    
-                            ▒▒▓▓▒▒▓▓▒▒                                    
-                              ▒▒  ▒▒                                      
-                              ▒▒  ▒▒                                      
-                              ▒▒  ▒▒                                      
-                              ▒▒  ▒▒                                      
-                    ▒▒▒▒▒▒▒▒  ▒▒  ▒▒                                      
-                ░░░░▒▒▒▒▒▒▒▒░░▒▒▒▒▒▒       
+--> 
 
 Abby balanced the newest letter on top of the neat stack of business envelopes banished to the bottom drawer of her desk. Each had the same return address and name: Mark Li, her father. She’d been promising herself that she’d read them someday. Just not today. Every time she saw his type-writer handwriting, she remembered their final conversation. “I never loved you,” she’d said. It’d been three years, but the heat of those words still rose to her cheeks in a flush.
 
@@ -63,9 +21,9 @@ Abby opened a notebook to a page covered in her careless scrawl. She’d clean t
 
 Abby’s phone rang. She checked the caller id, and nearly slammed her phone face down onto the desk. Vivienne Li. Funny how at twenty, a junior in college, she still felt her mother’s hawkish eyes on her back. 
 
-Abby put the phone on speaker. “Hello?” 
+Abby put the phone on speaker. “Hello?” 
 
-“We need to talk.” 
+“We need to talk.” 
 
 Abby crossed a line out in her notebook and ripped out a fresh page. “Ok.”
 
@@ -85,7 +43,7 @@ Abby ripped the frayed edge of the paper. “Me? You’re the one who takes out 
 
 “Why don’t you just divorce that goddamn man if you hate him so much?”
 
-“Can you just listen to me?” Vivienne smashed her fist into a table. 
+“Can you just listen to me?” Vivienne smashed her fist into a table. 
 
 The last time Vivienne had lashed out was years ago. “Yes, mother,” Abby said.
 
@@ -205,7 +163,7 @@ Vivienne paused. “Don’t burn the rice.”
 
 Vivienne shook her head at Abby’s fried rice. “Is this what you’ve been eating in college? It’s not very healthy. Too much oil.” She poked at a singed rice clump with her chopsticks. “And it’s burnt.”
 
-“I like it,” Mark said. 
+“I like it,” Mark said.  
 
 Strange. Mark had never been one for “poor people’s” dishes, preferring salmon and steak when he came home. Perhaps to spite him, Vivienne always overcooked the meat. 
 
@@ -221,7 +179,7 @@ Abby lifted her chin, meeting his gaze for the first time in years. “I’m als
 
 “I’ve never heard of that.”
 
-“What?” Surely Mark hadn’t forgotten the theorem that made his name. 
+“What?” Surely Mark hadn’t forgotten the theorem that made his name.  
 
 “Will you explain it to me?”
 
@@ -251,11 +209,11 @@ Abby refused to look at either of them when she came down for dinner. He’d bee
 
 “Abby, how’s your day been?” he asked.
 
-Abby kept her gaze on the wine stewed pork ribs in her bowl. “Like you care.” 
+Abby kept her gaze on the wine stewed pork ribs in her bowl. “Like you care.” 
 
 Mark set his chopsticks down. "I care about you, Abby. I'm your father. Don't treat me like this. I thought I taught you respect."
 
-Abby scoffed. "You didn't teach me anything."
+"You didn't teach me anything."
 
 “Abby,” Vivienne warned.
 
@@ -265,7 +223,7 @@ Abby crushed an egg between her chopsticks. “A happy family? You come home twi
 
 Mark slammed his fist into the table. “Don't speak to me like that.” He turned to Vivienne. “She is disrespecting me. Do something.”
 
-Vivienne slouched protectively around her bowl, forehead resting on her fingertips. “I don’t think —”
+Vivienne slouched around her bowl, forehead resting on her fingertips. “I don’t think —”
 
 “You don’t think what?”
 
@@ -281,7 +239,7 @@ Abby stood, kicking her chair backwards. “You know what? You think I don’t l
 
 “Abby, finish your dinner.” Vivienne said.
 
-Abby ran up the stairs. 
+Abby ran up the stairs. 
 
 “Abby, get back here.”
 
@@ -297,11 +255,11 @@ Mark sat framed in a square of light spilling from the garden window, spooning r
 
 Abby placed the paper on the table and picked up the pencil, beginning to explain the theorem that she’d been working on.
 
-Mark stopped her after a few lines, circling a term with his fingertip. “Can you explain this?” 
+Mark stopped her after a few lines, circling a term with his fingertip. “Can you explain this?” 
 
 Abby pressed her lips together. He’d had little patience for her interruptions when she was little, taking each hesitation as proof she wasn’t “enough” to be the mathematician he was. All she’d ever wanted was to be enough.
 
-Abby began to elaborate. She wouldn’t be like him. 
+Abby began to elaborate. She wouldn’t be like him.  
 
  #
 
@@ -423,9 +381,9 @@ Abby stood, wiping the tears from her cheeks with the heel of her hand. “I’m
 
 She fled up the stairs. 
 
-She’d barely had time to catch her breath before Vivienne rapped on her door.  “Abby, open the door.” Vivienne tried the door knob.
+She’d barely had time to catch her breath before Vivienne rapped on her door.  “Abby, open the door.” Vivienne tried the door knob.
 
-Abby unlocked the door and retreated to her bed. 
+Abby unlocked the door and retreated to her bed.  
 
 “I told you not to talk about it.”
 
