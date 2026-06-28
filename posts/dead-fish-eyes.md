@@ -1,7 +1,7 @@
 <!--
 .. title: dead fish eyes
 .. slug: dead-fish-eyes
-.. date: 2026-06-28 18:15:43 UTC-05:00
+.. date: 2026-06-27 18:15:43 UTC-05:00
 .. tags: been thinking about this too much so I wrote it down // I wanted to traumatize my creative writing class // sorry Micah
 .. category: short stories
 .. link: 
