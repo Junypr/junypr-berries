@@ -35,7 +35,7 @@ He doesn't tell her about the other stuff. About how some afternoons, the weight
 
 She smiles at him. “You'll be a good father.” 
 
-#
+ #
 
 He's always wanted to be a father. He isn't sure why. He hasn't spent much time around them, being an only child, but it just feels natural. And his parents want grandchildren anyway.
 
@@ -47,7 +47,7 @@ Until his mother was diagnosed with cervical cancer, and the little money they h
 
 There was a wealthy couple in the town, trying for a child. They needed someone else to carry it. They offered two million dollars for a female surrogate; five hundred thousand for a man. He begged Sunny to take the offer, but she refused, saying that she didn't want to leave her job. A month later, he was laid off from his accounting role. He took the child.
 
-#
+ #
 
 Sunny's visiting this afternoon.
 
@@ -147,7 +147,7 @@ Sunny takes a tissue from the box on the table and catches the tears on his chee
 
 Sunny sits in a chair and reads for the remainder of the hour. Normally, she reads the news or a pop science book on space, but she’s been feeling pretty cheesy recently, so it’s a cute fantasy romance. She can't concentrate on it, though. She's angry. At herself, for not leaving earlier. At him, for being just barely enough that she's stayed this long.
 
-#
+ #
 
 He takes a bath in the tub behind a curtain. It's fake privacy, he thinks, if there are cameras, but he finds that he can't even care anymore, because they've already claimed his body for their own use. So what if they see him undressed.
 
@@ -167,7 +167,7 @@ He wonders, not for the first time, if Sunny's found another man. Someone from h
 
 In his heart, he knows why she’s still with him. His parents offered a house bigger than any she’d ever lived in — with rose bushes and a gardener and a lawn enclosed by a white picket fence — and all they asked for was a child. They were well-off — but not wealthy enough to shell out tens of millions for the hordes of grandchildren they were hoping to have. Sunny was their ticket. Except Sunny has other plans.
 
-#
+ #
 
 The parents are in the room before he's woken up. The man is barrel-chested and wearing a too-tight suit. The woman is svelte and seems a few years too young for him — but maybe it’s just the procedures she’s had to freeze her face in time. Normally, they ignore him, but today, the woman is staring at him.
 
@@ -189,7 +189,7 @@ There's no point in lying. They've probably seen on the cameras. “Yes, Ma'am. 
 
 He stares at her nude pumps. “Yes, Ma'am".
 
-#
+ #
 
 His parents call later that morning. Their faces peer at him through the screen. His dad has his arm around his mom's shoulders.
 
@@ -259,7 +259,7 @@ He opens his mouth. Thinks about what he could say — that Sunny's the first wo
 
 “Think about it, honey.” And they hang up.
 
-#
+ #
 
 Lunch is a tuna salad. It's bad, really bad, because they probably didn't even use real eggs for the mayo. But that's not what makes him sad.
 
@@ -289,7 +289,7 @@ He picks up his phone when the nurse leaves. “Sunny. Sunny? Please Sunny, can 
 
 She hangs up, and he waits.
 
-#
+ #
 
 Sunny comes a little earlier than usual. She unlaces her shoes and stands a few paces away from him, arms folded. “What's going on?” 
 
@@ -387,7 +387,7 @@ Sunny shakes her head. “It doesn't matter. I don't want your apology.” 
 
 She ties her shoelaces without looking back at him. “Goodbye,” she says to the door, and shuts it softly behind her.
 
-#
+ #
 
 He's trying to sleep, but all he can think about is a knife edge. Something sharp. Something that can cut him free.
 
@@ -409,7 +409,7 @@ Except it's not easy, sitting here, staring at the thing he wants but can never 
 
 He walks over to the tank and punches it. The walls of the tank flex. The child keeps spinning.
 
-#
+ #
 
 When the nurse brings breakfast, he asks for a razor. She gives him an electric shaver, and he shakes his head. He wants something sharper, smoother. With a blade. But he doesn't say that. He says he wants to trim his hair, and he wants to do it himself.
 
@@ -427,7 +427,7 @@ In one motion, he slices the tube at his navel and throws the blade onto the gro
 
 Sometime later, the nurse screams.
 
-#
+ #
 
 He's been lying in the tub long enough that his hands have gone cold when the parents arrive. The father is in a golf tee, his slacks stained with grass. The mother clucks her tongue.
 
