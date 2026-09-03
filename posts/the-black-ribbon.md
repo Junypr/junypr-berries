@@ -151,7 +151,7 @@ He touched the ribbon at his neck. "I'd have to cross the train tracks after sch
 
 "Ju —" I squeezed his knee. 
 
-"I did this for years. Like I was playing with the train. Daring it to be a little too fast ---"
+"I did this for years. Like I was playing with the train. Daring it to be a little too fast —"
 
 "But nothing happened, right?"
 
