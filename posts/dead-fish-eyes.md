@@ -455,4 +455,4 @@ He meets the father’s eyes. “No. I'm not sorry.” 
 
 He stares. He pulls back his fist. Then he drops it. “Fine. Fine.” 
 
-He waits for an ambulance to pick him up and take him to the hospital.**dead-
+He waits for an ambulance to pick him up and take him to the hospital.
