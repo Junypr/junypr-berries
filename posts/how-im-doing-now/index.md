@@ -13,13 +13,13 @@
 
 ## la perla
 
-> "Es una perla, una de mucho cuidao." - Rosalía, 'La Perla'
+_"Es una perla, una de mucho cuidao." - Rosalía, 'La Perla'_
 
 People will ask why we broke up. It's hard to articulate concisely. There were just too many reasons — some salient, some mundane, some so private that almost everyone who knows only knows because he told them without my permission. Nothing alone was really a "good enough" reason to leave. Because he never threatened me. He never laid a hand on me. If I had to say it concisely, I left because I realized I was never going to be happy.
 
 ## divinize
 
-> "Bruise me up I'll eat all of my pride." - Rosalía, 'Divinize'
+_"Bruise me up I'll eat all of my pride." - Rosalía, 'Divinize'_
 
 In the spring of my sophomore year, the condom broke and I had to take Plan B. It destroyed my mental health. I cried every day for a week. I thought about falling out the window of my 9th floor dorm room. I remember going to the Stata basement for 6.3900 recitation, realizing that it was canceled because we had a midterm that evening, and sitting in the plastic chair, fighting tears, unable to get up and leave.
 
@@ -39,7 +39,7 @@ But things got better, briefly, after begging him to be a little nicer to me. He
 
 ## anti-hero
 
-> "It's me, hi, I'm the problem, it's me." - Taylor Swift, 'Anti-Hero'
+_"It's me, hi, I'm the problem, it's me." - Taylor Swift, 'Anti-Hero'_
 
 I went to southern California for my internship immediately after finals. It was, frankly, a shitty summer. I got called into a meeting with my manager, who said his manager had received reports from a group of other interns that I was "unwelcoming." This was after one of the accusers had repeatedly interrupted me in front of a full-time employee. I was also roommates with two men, one of whom was wonderful, and one of whom was a slob that reeked from six feet away, never did his dishes, and sometimes slept on the couch outside my room.
 
@@ -63,7 +63,7 @@ I've spent a long time searching for a word to encapsulate how we were: anxiousl
 
 ## focu 'ranni
 
-> "Tarde o temprano el destino te golpea, aunque ignores sus señales." - Rosalía, 'Focu 'Ranni'
+_"Tarde o temprano el destino te golpea, aunque ignores sus señales." - Rosalía, 'Focu 'Ranni'_
 
 Towards the end of summer, my co-intern, who'd watched me get more and more stressed about the situation, asked me if, knowing what I know now, I'd do it all again. 
 
@@ -96,7 +96,7 @@ Then, for the first time, I asked a few people I knew.
 # pt. 2: how I'm doing now
 ## blindsided
 
-> "Was there nothing ever wrong, 'cause you were always right?" - Kelsea Ballerini, 'Blindsided'
+_"Was there nothing ever wrong, 'cause you were always right?" - Kelsea Ballerini, 'Blindsided'_
 
 I broke up with him a few days after that final not-apology. But that wasn't the start. I'm not sure it was even the final straw. I think it was just the last thing I needed to do, for myself, to say that I'd tried as much as I could, and that I knew nothing would change. 
 
@@ -108,7 +108,7 @@ And he had the audacity to try to offer "unsolicited advice," which I didn't tak
 
 ## interlude
 
-> "That's all that's left to say. You can love her, you can hate her." - Kelsea Ballerini, 'Interlude'
+_"That's all that's left to say. You can love her, you can hate her." - Kelsea Ballerini, 'Interlude'_
 
 I wanted to take the high road, to keep things private, to not make friends pick sides. But it really doesn't feel like he's tried to do the same. And it's very easy for him to play the victim, to say that it came out of nowhere, that I didn't give him a chance. I know it's an easy story to believe, because I never said anything about everything that was going on. I'm sure we looked happy from the outside.
 
@@ -118,7 +118,7 @@ So this is what I'll say about everything. There are things here that I've never
 
 ## call it what you want
 
-> "I want to wear his initial on a chain 'round my neck... not because he owns me, but 'cause he really knows me." - Taylor Swift, 'Call It What You Want'
+_"I want to wear his initial on a chain 'round my neck... not because he owns me, but 'cause he really knows me." - Taylor Swift, 'Call It What You Want'_
 
 And yet I feel better than I have in a long, long time. Mostly, I've felt relief. I'm no longer saddled by his insecurities. I feel free. I've had time to think about what I want. I have the energy to have fun.
 
