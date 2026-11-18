@@ -15,7 +15,7 @@
 
 _"Es una perla, una de mucho cuidao." - Rosalía, 'La Perla'_
 
-People will ask why we broke up. It's hard to articulate concisely. There were just too many reasons — some salient, some mundane, some so private that almost everyone who knows only knows because he told them without my permission. Nothing alone was really a "good enough" reason to leave. Because he never threatened me. He never laid a hand on me. If I had to say it concisely, I left because I realized I was never going to be happy.
+People will ask why we broke up. It's hard to articulate concisely. There were just too many reasons — some salient, some mundane, some so private that almost everyone who knows only knows because he told them without my permission. Nothing alone was really a "good enough" reason to leave. Because he never threatened me. He never laid a hand on me. If I had to say it concisely, I left because I realized I was never going to be happy. <!-- TEASER_END -->
 
 ## divinize
 
