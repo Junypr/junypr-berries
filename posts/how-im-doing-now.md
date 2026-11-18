@@ -1,0 +1,133 @@
+<!--
+.. title: how I'm doing now
+.. slug: how-im-doing-now
+.. date: 2026-11-18 10:35:43 UTC-05:00
+.. tags: 
+.. category: essays
+.. link: 
+.. description: 
+.. type: text
+-->
+
+# pt. 1: why I stayed
+
+## la perla
+
+> "Es una perla, una de mucho cuidao." - Rosalía, 'La Perla'
+
+People will ask why we broke up. It's hard to articulate concisely. There were just too many reasons — some salient, some mundane, some so private that almost everyone who knows only knows because he told them without my permission. Nothing alone was really a "good enough" reason to leave. Because he never threatened me. He never laid a hand on me. If I had to say it concisely, I left because I realized I was never going to be happy.
+
+## divinize
+
+> "Bruise me up I'll eat all of my pride." - Rosalía, 'Divinize'
+
+In the spring of my sophomore year, the condom broke and I had to take Plan B. It destroyed my mental health. I cried every day for a week. I thought about falling out the window of my 9th floor dorm room. I remember going to the Stata basement for 6.3900 recitation, realizing that it was canceled because we had a midterm that evening, and sitting in the plastic chair, fighting tears, unable to get up and leave.
+
+I think the only reason I survived was because I knew it would end eventually. 
+
+During that time, I told him I didn't feel anything towards him, and that I wanted to leave. He started crying. He said I was too emotional to make a decision like that clearly. I shouldn't have, but I listened to him. 
+
+I don't know if he ever understood what I went through. Then again, I don't know if anyone could. 
+
+A few weeks later, shortly before I was going to leave for Design/Build/Fly competition, he snapped at me about how I was cold to him during breakfast, when he just wanted comfort because he was sick. I apologized, but said I didn't have the time or emotional bandwidth, between what had happened and the hours I was putting into DBF. He came to my room, crying, told me it wasn't working, and presented me two options: we break up, or go no-contact until after competition. I could see he didn't want to do either. I ended up apologizing again and promising to do better. 
+
+And he held me to that promise. If I let a friend vent about their frustrations over dinner, he'd ask me afterwards why I cared more about them than him. When I told him he needed to find other people to confide in, he asked me what was wrong with using me to talk through all his problems. 
+
+More than anything else, that was what ate away at me: his entitlement — to my body, to my time, to my space, to my peace.
+
+But things got better, briefly, after begging him to be a little nicer to me. He thoughtfully gifted me plastic bird hairclips for my birthday. He took my dishes for me at the dining hall. Towards the end of the semester, I thought, if I just communicated enough, if I just explained, as clearly and explicitly as possible, what I wanted, everything would be ok. 
+
+## anti-hero
+
+> "It's me, hi, I'm the problem, it's me." - Taylor Swift, 'Anti-Hero'
+
+I went to southern California for my internship immediately after finals. It was, frankly, a shitty summer. I got called into a meeting with my manager, who said his manager had received reports from a group of other interns that I was "unwelcoming." This was after one of the accusers had repeatedly interrupted me in front of a full-time employee. I was also roommates with two men, one of whom was wonderful, and one of whom was a slob that reeked from six feet away, never did his dishes, and sometimes slept on the couch outside my room.
+
+The one bright spot was another intern. He defended me to our manager and was, most of the time, the only person on the team other than me who actually knew what they were doing. We became friends, talked too loudly and too much in the office, and got an impressive amount of mostly non-slop code written. 
+
+At first, I was able to balance everything with my partner. But as I got more and more busy, and kept getting home later and later — I didn't have a car, so my options were to bum a ride from my roommates, who rarely got home before 7pm, or take the two-transfer hour-long public transit commute — I had less and less time for him.
+
+I hate to say it, but he started to become just one more task I had to manage on my ever-growing to do list. He'd expect me to soothe him every time something bothered him, periodically telling me that he felt like I didn't care enough. He'd want to call for an hour, but have nothing to say except for his frustrations and the latest addition to his mechanical pencil collection. I'd try to talk about how I was feeling, and he wouldn't ask a single follow up question. 
+
+During this time I grew closer to my co-intern. We explored LA and watched the Odyssey. He stayed over, and for once, I didn't have to wash a single dish. 
+
+My partner grew suspicious. He said he felt like he was getting replaced. He'd interrogate me if I didn't text him first thing in the morning, and express his disappointment if I didn't want to do our twenty-minute goodnight ritual. His messages started feeling like check-ins to monitor my attentiveness.
+
+And it was far from the the first time he'd been jealous.He'd questioned me about my Whatsapp activity before, thinking I was texting an old flame (I wasn't — I was checking a NASA intern group chat). But I blamed his reaction on myself. I was being suspicious. I wasn't attentive enough. And I knew, deep down, that what I felt for my fellow intern was little more than friendship. 
+
+I was too embarrassed to tell anyone. I thought if I could just make it work for the summer, once we got back on campus, everything would be great. So I burned myself out making time for him. I tried to find compromises — scheduling time for us to call or wish each other goodnight. But it began to feel like more and more of an obligation. We'd send the same strings of stickers and "I love you"s every night, sit in calls with nothing to say. I didn't want to keep up with all the empty rituals when I was stressed about job interviews and work and what I could cook for dinner with the mold-infested fridge. I resented how he kept asking for more — more photos, more videos, more time, more proof that I cared. And as the summer went on and I grew more and more tired, and he resented me for not being able to keep up with my promises.
+
+Late at night, he expressed his disappointment that I never seemed to have time for him. I explained to him how busy I was — something I thought he would've known already. He expected me to soothe his loneliness the next morning.
+
+I've spent a long time searching for a word to encapsulate how we were: anxiously attached — toxic — codependent. But I could never decide what counted. And I know the power of words too well to label him. But I will name what I became in his wake: a serial apologist, an overfunctioner, a mirror to his emotions that had lost touch with my own.
+
+## focu 'ranni
+
+> "Tarde o temprano el destino te golpea, aunque ignores sus señales." - Rosalía, 'Focu 'Ranni'
+
+Towards the end of summer, my co-intern, who'd watched me get more and more stressed about the situation, asked me if, knowing what I know now, I'd do it all again. 
+
+I was silent for a while. Then, "I don't think so."
+
+I asked my partner what he saw me as. His top four were "someone I love, someone who can comfort me, someone to do things together with, and someone to rely on." At the end of the list, after "tough and ambitious" and "goober," he tacked on, "someone who deserves to be loved and comforted and protected." And I know it seems like a small thing, but I couldn't stop thinking about it. About how I'd built his life up — soothed him when he was upset, given him a steady presence when he was lonely, helped him manage his time — and he'd given me precious little back. 
+
+I told him I couldn't just be an endless well of love and comfort and warmth. I told him I felt like he was taking my presence for granted. I told him he was asking for more than I could give. He promised to do better. 
+
+He admitted that he'd been attention-seeking, needy, and insecure. But he also told me that to fix those problems, he needed me to be more responsive, more attentive, to give him yet more of my time. 
+
+New words, same story.
+
+How do you teach someone to appreciate you? How do you teach someone to be aware of when they're asking for too much from someone who will bend and bend until they snap? 
+
+And I know I should've had hard boundaries. I know I shouldn't have let him guilt trip me into overextending myself. I know I should've left a long, long time ago.
+
+I think I was just too stressed, too overwhelmed, too numb to realize it then. I'd been stuck in the dynamic for so long I forgot I could leave.
+
+I thought about it on the drive home. For the whole summer, I'd kept telling myself that it'd all get better when we went back to MIT. That he wouldn't be at a job he hated, that we'd be in person, that he'd stop being so needy, so insecure. Except the more I thought about it, the more I realized there was too much left unresolved. 
+
+I sent him a long message about all of the issues I had with the relationship. I told him I didn't like being treated like his wife and therapist. That I didn't like that he blamed everything on my inability to communicate. That I didn't want to have to constantly explain where I was or why I couldn't be in touch. 
+
+And he seemed to get it, in a way. But every response also seemed to expect an apology — excusing his behavior by blaming my own. He said me not being able to make time for him alarmed him because I didn't communicate what I really wanted clearly enough. He said he was being so needy because he felt like I was stringing him along. He acted like his behavior was justified.
+
+I thought about it. Then I thought about the dozens of times he'd sort of apologized, with enough tears that it seemed sincere, and changed nothing. And then I thought about whether that was enough for me. 
+
+Then, for the first time, I asked a few people I knew. 
+
+# pt. 2: how I'm doing now
+## blindsided
+
+> "Was there nothing ever wrong, 'cause you were always right?" - Kelsea Ballerini, 'Blindsided'
+
+I broke up with him a few days after that final not-apology. But that wasn't the start. I'm not sure it was even the final straw. I think it was just the last thing I needed to do, for myself, to say that I'd tried as much as I could, and that I knew nothing would change. 
+
+Looking back, the reasons are clear. They've been clear for a long time. My only regret is that I didn't get out faster. 
+
+And it's funny that, a few weeks after the breakup, he wanted to talk. Because I was too abrupt. Because I didn't give enough reasons. He needed closure, because I guess, even after the breakup, the problem was my lack of communication. Was I supposed to list every single issue I had again? Because the Discord messages didn't disappear. 
+
+And he had the audacity to try to offer "unsolicited advice," which I didn't take, because I didn't want to hear him blame me for his problems one more time.
+
+## interlude
+
+> "That's all that's left to say. You can love her, you can hate her." - Kelsea Ballerini, 'Interlude'
+
+I wanted to take the high road, to keep things private, to not make friends pick sides. But it really doesn't feel like he's tried to do the same. And it's very easy for him to play the victim, to say that it came out of nowhere, that I didn't give him a chance. I know it's an easy story to believe, because I never said anything about everything that was going on. I'm sure we looked happy from the outside.
+
+I'm feeling more scrutinized than ever. Sometimes, it feels like everything's about this, and I'm just on one side of a giant game of telephone that ends with him.
+
+So this is what I'll say about everything. There are things here that I've never said. Things I'm scared of people knowing. But maybe if you can't look at me the same, then we weren't really friends. And that's ok. 
+
+## call it what you want
+
+> "I want to wear his initial on a chain 'round my neck... not because he owns me, but 'cause he really knows me." - Taylor Swift, 'Call It What You Want'
+
+And yet I feel better than I have in a long, long time. Mostly, I've felt relief. I'm no longer saddled by his insecurities. I feel free. I've had time to think about what I want. I have the energy to have fun.
+
+Those who know will know that I'm with someone new, my co-intern from the summer. I know what it looks like. I know people will label us. I can't try to fight all of it. What I will say is: this is not a reaction to everything that has happened. This is not an inability to be alone. I can't say if this will last, but I'd like it to. 
+
+Because I've been thinking that maybe I've finally found someone who will treat me right. Someone who I don't have to support, who I can live beside. 
+
+Everyone says love is hard, and I believed it. I believed that what I felt was normal. That you do have to remind your partner that you'd like a thoughtful birthday present. That it was normal to be guilt tripped into compromises you don't want. That it was normal to be anxious and annoyed whenever he was around. That I was supposed to end up crying and apologizing after every disagreement. 
+
+But I've found something that feels easy. Someone that got me a stuffed bear. Someone who asks the right questions when I'm sad. Someone who pays without me asking. Someone who checks in to make sure he's not asking too much of me. Someone that I can talk to for hours and never get bored. Someone who will tell me I'm beautiful every day and mean it. Someone that gets me. And I'm shocked. And I'm happy. 
+
+So call it what you want. 
